@@ -1,4 +1,4 @@
-# Offline Quiz Software 
+# Offline Quiz Software (sem-3)
 This software allows users to play a quiz consisting of 20 questions. 
 Each question can be one of the three types: Good, Tough or Complex. 
 
