@@ -1,4 +1,4 @@
-# Offline Quiz Software (Semester-3)
+# Offline Quiz Software 
 This software allows users to play a quiz consisting of 20 questions. 
 Each question can be one of the three types: Good, Tough or Complex. 
 
